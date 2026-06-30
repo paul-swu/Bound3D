@@ -1,7 +1,6 @@
 # Bound3D (ECCV 2026)
 
 **Don't Starve the Boundaries: Boundary-Constrained Label Propagation for Weakly Supervised 3D Segmentation**
-
 This is the official repository for the paper **Bound3D** (ECCV 2026).
 
 ## 📢 News
@@ -12,3 +11,7 @@ Although fully supervised methods have substantially advanced segmentation in bo
 
 ## 🖼️ Qualitative Results
 <img width="1943" height="956" alt="visbd" src="https://github.com/user-attachments/assets/984134ed-be3d-4740-894c-cefc99ff2d6c" />
+
+---
+## 🚧 Code Release Status
+The complete code will be released soon.
